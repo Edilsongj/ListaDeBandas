@@ -1,7 +1,9 @@
-🎵 Lista de Bandas
+ 🎵 Lista de Bandas
+
 Este é um projeto de estudos feito durante meu curso de C#, onde estou aprendendo a trabalhar com listas, dicionários, laços de repetição e lógica de programação de maneira prática.
 
 📌 Sobre o Projeto
+
 O objetivo principal do projeto é:
 
 Cadastrar bandas;
